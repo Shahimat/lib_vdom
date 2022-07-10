@@ -6,7 +6,7 @@
   "tabWidth": 2,
   "useTabs": false,
   "trailingComma": "all",
-  "semi": false,
+  "semi": true,
   "overrides": [
     {
       "files": ["*.html"],
